@@ -32,7 +32,7 @@
 4. Energy is consumed with each step.
 5. The first to reach **checkpoint 5** is declared the winner.
 
----
+---   
 
 ## 🧪 Example
 
