@@ -18,7 +18,7 @@
 
 - ✅ On-chain drone registration
 - 🔋 Energy management system
-- 🏁 Checkpoint tracking
+- 🏁 Checkpoint tracking    
 - 👑 Automatic winner detection
 - 🛑 Race locking mechanism once started
 
