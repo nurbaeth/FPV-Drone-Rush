@@ -5,7 +5,7 @@
 ---    
 
 ## 🎮 Gameplay   
-
+ 
 - Players register their drones before the race starts. 
 - Each drone has **100 energy points**.   
 - Every step forward **costs 10 energy** and moves you to the next checkpoint.
