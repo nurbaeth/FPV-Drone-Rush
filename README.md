@@ -22,7 +22,7 @@
 - 👑 Automatic winner detection
 - 🛑 Race locking mechanism once started 
  
----   
+---    
      
 ## 🧠 How It Works
 
