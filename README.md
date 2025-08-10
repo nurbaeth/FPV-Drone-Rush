@@ -12,7 +12,7 @@
 - There are **5 total checkpoints**.  
 - The **first player to finish all checkpoints** wins the race!   
         
---- 
+---  
 
 ## ⚙️ Smart Contract Features  
 
