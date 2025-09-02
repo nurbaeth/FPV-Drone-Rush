@@ -20,7 +20,7 @@
 - 🔋 Energy management system   
 - 🏁 Checkpoint tracking       
 - 👑 Automatic winner detection 
-- 🛑 Race locking mechanism once started 
+- 🛑 Race locking mechanism once started  
  
 ---    
      
