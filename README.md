@@ -30,7 +30,7 @@
 2. When ready, someone calls `startRace()` to lock in players and begin.    
 3. Players take steps using `step()` to move through checkpoints. 
 4. Energy is consumed with each step. 
-5. The first to reach **checkpoint 5** is declared the winner.
+5. The first to reach **checkpoint 5** is declared the winner. 
 
 ---   
 
