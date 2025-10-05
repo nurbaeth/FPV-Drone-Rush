@@ -4,7 +4,7 @@
           
 ---        
      
-## 🎮 Gameplay        
+## 🎮 Gameplay         
     
 - Players register their drones before the race starts.      
 - Each drone has **100 energy points**.       
