@@ -23,7 +23,7 @@
 - 🛑 Race locking mechanism once started   
    
 ---      
-     
+      
 ## 🧠 How It Works
  
 1. Players call `register()` to enter the race. 
