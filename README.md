@@ -17,7 +17,7 @@
 ## ⚙️ Smart Contract Features      
   
 - ✅ On-chain drone registration     
-- 🔋 Energy management system   
+- 🔋 Energy management system    
 - 🏁 Checkpoint tracking       
 - 👑 Automatic winner detection 
 - 🛑 Race locking mechanism once started  
