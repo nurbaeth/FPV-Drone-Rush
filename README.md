@@ -1,6 +1,6 @@
 # 🚀 FPV Drone Rush         
            
-**FPV Drone Rush** is the **first fully on-chain FPV racing simulator** built with Solidity. Compete in drone races, manage your energy, pass checkpoints, and be the first to reach the finish line — all on Ethereum. 
+**FPV Drone Rush** is the **first fully on-chain FPV racing simulator** built with Solidity. Compete in drone races, manage your energy, pass checkpoints, and be the first to reach the finish line — all on Ethereum.  
            
 ---         
      
