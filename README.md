@@ -13,7 +13,7 @@
 - The **first player to finish all checkpoints** wins the race!      
            
 ---   
-    
+     
 ## ⚙️ Smart Contract Features      
   
 - ✅ On-chain drone registration     
